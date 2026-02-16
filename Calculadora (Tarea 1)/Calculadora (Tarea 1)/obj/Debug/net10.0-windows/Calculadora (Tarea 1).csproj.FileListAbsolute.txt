@@ -1,0 +1,16 @@
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\bin\Debug\net10.0-windows\Calculadora (Tarea 1).exe
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\bin\Debug\net10.0-windows\Calculadora (Tarea 1).deps.json
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\bin\Debug\net10.0-windows\Calculadora (Tarea 1).runtimeconfig.json
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\bin\Debug\net10.0-windows\Calculadora (Tarea 1).dll
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\bin\Debug\net10.0-windows\Calculadora (Tarea 1).pdb
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora__Tarea_1_.Form1.resources
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).csproj.GenerateResource.cache
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).AssemblyInfoInputs.cache
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).AssemblyInfo.cs
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).csproj.CoreCompileInputs.cache
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).dll
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\refint\Calculadora (Tarea 1).dll
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).pdb
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\Calculadora (Tarea 1).genruntimeconfig.cache
+C:\Users\nmm01\Desktop\Programacion II\Tarea 1\Tarea 1\Calculadora\Calculadora (Tarea 1)\Calculadora (Tarea 1)\obj\Debug\net10.0-windows\ref\Calculadora (Tarea 1).dll
